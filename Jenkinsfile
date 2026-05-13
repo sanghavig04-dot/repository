@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKERHUB_CREDENTIALS = 'new_password '//give your credential name
+        DOCKERHUB_CREDENTIALS = 'new_passwordd '//give your credential name
         IMAGE_NAME = 'sanghaviiiiiii/new_docker_image'//give your image name
     }
 
