@@ -27,7 +27,7 @@ pipeline {
                     passwordVariable: 'sang@1234'
                 )]) {
 
-                    bat 'docker login -u %USER% -p %PASS%'
+                    bat 'docker login -u sanghaviiiiiii  -p sang@1234'
                 }
             }
         }
