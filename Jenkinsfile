@@ -10,7 +10,7 @@ pipeline {
 
         stage('Build Java Application') {
             steps {
-                bat 'javac prime.java'
+                bat 'javac hello.java'
             }
         }
 
